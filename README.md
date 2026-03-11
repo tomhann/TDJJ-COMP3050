@@ -1,13 +1,13 @@
 # TDJJ-COMP3050
 Welcome to our project
 
-Tech-Stack:
+Tech-Stack: <br />
 Java <br />
 Map stored via text file into memory <br />
 built-in Java HTTP server <br />
 Docker for containerisation <br />
 
-Basic project plan:
+Basic project plan: <br />
 • The server maintains a tile-based map and tracks a player character’s position <br />
 • Two API endpoints: <br />
 – /move?dy=DY&dx=DX — move the character one space (N/S/E/W) <br />
